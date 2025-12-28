@@ -2,132 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
   <loc>https://link.marwanto606.com</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>1.0</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/facebook</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/instagram</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/twitter</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/linkedin</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/pinterest</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/youtube</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/twitch</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
     <url>
   <loc>https://link.marwanto606.com/soundcloud</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/github</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/codepen</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/behance</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/deviantart</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/tumblr</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/civitai</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/disqus</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/devto</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/blogger</loc>
-  <changefreq>always</changefreq>
-  <priority>0.8</priority>
-  </url>
-  <url>
-  <loc>https://link.marwanto606.com/opensea</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/linktree</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/moddb</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/provenexpert</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/postman</loc>
-  <changefreq>always</changefreq>
-  <priority>0.8</priority>
-  </url>
-  <url>
-  <loc>https://link.marwanto606.com/wussh</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/typedream</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
   <url>
   <loc>https://link.marwanto606.com/mpage</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  </url>
+   <url>
+  <loc>https://link.marwanto606.com/huggingface</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+  </url>
+   <url>
+  <loc>https://link.marwanto606.com/hf</loc>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
   </url>
 </urlset>
